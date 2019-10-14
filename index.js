@@ -1,5 +1,5 @@
 //Stock Market Portfolio App Class
-
+//Switched to SSH using the Clone or Download button
 const express = require('express');
 const app = express();
 const exphbs  = require('express-handlebars');
